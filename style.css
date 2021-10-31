@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    }
+    
+
+nav{
+    
+     display: block;
+     margin: 30px;
+     color: rgb(236, 229, 230);
+     
+     
+    }
+
+    li {
+        display: inline;
+        padding: 20px;
+    }
+
+    
+    
+
+
+body {
+    background-image: url(https://wallpaperboat.com/wp-content/uploads/2021/07/12/77815/new-world-26.jpg);
+}
+
+h1 {
+    color: rgb(248, 245, 244);
+    text-align: center; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    padding-bottom: 20px;    
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float:inline-start;
+    
+}
+
+p {
+   color: lavender;
+    
+    
+} 
+
+   a {
+    color: lavenderblush;
+}
+
+
+
+form {
+text-align: center;
+position: absolute; right: 740px;
+}
+
+
+h2 {
+    color:cornsilk;
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+        border:none;
+        color: rgb(250, 250, 250);
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        text-align: center;
+       position: absolute; right: 880px; bottom: 150px;
+       background-color: rgb(8, 10, 9);
+
+    
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+color: cornsilk;
+float: bottom
+;
+}
+
+.box {
+    width: 300px;
+    border: 1px solid rgb(5, 5, 5);
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    
+   
+  }
+
+  h5 {
+      padding: 10px;
+      color: cornsilk;
+  }
+
+
+      
